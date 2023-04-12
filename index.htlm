@@ -30,17 +30,22 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Evelyn Adams</h1>
-        <h2>Freshman from Wyoming, Michigan</h2>
+        <h1>Sarah Gothard</h1>
+        <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying creative writing. I work for the middle school as an English teacher assistant. </p>
-         <p> 
-         I attend White Oak Baptist Church, which is directly across the street from BJU. They have free breakfast every Sunday morning.
+         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
+            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>
+            I attend Cornerstone Baptist Church in Greer SC. I have a mobile-friendly 
+            sheet music <a href="https://mobilehymns.org/">website</a> and post weekly service
+            schedules for several churches.
          </p> 
          <p>
-            I enjoy playing piano, working on my novel, and painting.
+            I enjoy listening to podcasts and having deep conversations.
          </p>
-       
+        <h3>EDUCATION</h3>
+        Computer Science<br />
+        Bob Jones University
     </div>
            
 </body>
