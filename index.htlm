@@ -2,7 +2,46 @@
 <head>
 <style>
 body {
-      background: lightgreen; fontfamily: vercana;
-      }
- #content {
-      background: lightyellow;
+    background: lightgreen;
+    font-family: Verdana;
+}  
+#content {
+    background: lightyellow;
+    min-width: 200px;
+    max-width: 500px;
+    padding: 50px;
+    margin: auto;
+    margin-top: -50px;
+    line-height: 150%;
+}
+h1 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    text-align: center;
+}
+h2 {
+    font-size: 14px;
+    text-align: center;
+}
+h3 {
+    font-size: 12px;
+}
+</style>
+</head>    
+<body>
+    <div id="content">
+        <h1>Evelyn Adams</h1>
+        <h2>Freshman from Wyoming, Michigan</h2>
+        
+         <p>I am a freshman at Bob Jones University studying creative writing. I work for the middle school as an English teacher assistant. </p>
+         <p> 
+         I attend White Oak Baptist Church, which is directly across the street from BJU. They have free breakfast every Sunday morning.
+         </p> 
+         <p>
+            I enjoy playing piano, working on my novel, and painting.
+         </p>
+       
+    </div>
+           
+</body>
+</html>
